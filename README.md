@@ -1,4 +1,4 @@
-# dbench
+# k8s-dbench
 Benchmark Kubernetes persistent disk volumes with `fio`: Read/write IOPS, bandwidth MB/s and latency.
 
 # Usage
